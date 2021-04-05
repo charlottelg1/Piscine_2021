@@ -1,0 +1,5 @@
+Credentials cache: API:F3DC02AE-6099-4044-8B6A-6B3D4F5E68E3
+        Principal: cle-gran@42.FR
+
+  Issued                Expires               Principal
+Feb  2 10:23:33 2021  Feb  9 10:23:33 2021  krbtgt/42.FR@42.FR
